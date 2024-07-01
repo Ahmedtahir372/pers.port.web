@@ -82,12 +82,12 @@ nav ul li a:hover::after{
 
 }
 .about-col-1{
-    flex-basis: 35%;
+    flex-basis: 20%;
 
 }
 .about-colo-1 img{
-    width: 50%;
-    border-radius: 15px;
+    width: 40%;
+    border-radius: 10px;
 
 }
 .about-col-2{
